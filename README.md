@@ -5,7 +5,7 @@ Soy una Ingeniera en Energía con una fuerte pasión por la Ciencia de Datos y u
 Mis Habilidades Técnicas incluyen:
 
 Excel | Tablas Dinámicas | Python | Pandas | Análisis Exploratorio de Datos | Jupyter Notebooks | Tableau |
-Google Sheets | Consultas en MySQL | Notion | Origin
+Google Sheets | Consultas en MySQL | Notion | R
 
 
 <!---
